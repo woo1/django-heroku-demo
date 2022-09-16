@@ -14,3 +14,4 @@ python manage.py runserver
 ## errors
 django-heroku 설치 시 "Error: pg_config executable not found." 관련 에러가 발생하는 경우
 - https://stackoverflow.com/questions/11618898/pg-config-executable-not-found
+- 설치 시 참고 : https://ossian.tistory.com/109
